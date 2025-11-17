@@ -1,7 +1,7 @@
 <?php
 class Dbconnection {
 
-    private $dbHost     = "10.0.0.16";
+    private $dbHost     = "127.0.0.1";
     private $dbUsername = "root";
     private $dbPassword = "12345";
     private $dbName     = "docker_database";
